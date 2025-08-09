@@ -1,0 +1,10 @@
+{
+	"weekends": {
+		"nightStartHour": 0,
+		"nightEndHour": 0
+	},
+	"weekdays": {
+		"nightStartHour": 0,
+		"nightEndHour": 0
+	}
+}
